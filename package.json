@@ -1,0 +1,19 @@
+{
+  "name": "react-hello-world",
+  "version": "1.0.0",
+  "description": "webpack + babel hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hebron-george/react-hello-world.git"
+  },
+  "author": "Hebron George",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hebron-george/react-hello-world/issues"
+  },
+  "homepage": "https://github.com/hebron-george/react-hello-world#readme"
+}
